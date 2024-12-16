@@ -12,6 +12,8 @@ This project automates the following tasks:
 4. **Set Bucket Policies**: Set the necessary access policies to make the website publicly accessible.
 5. **Output the Website URL**: Provide the URL where you can access the deployed website.
 
+![image](https://github.com/user-attachments/assets/1bc37178-b539-4a7b-bdda-6c3dc3c3eebe)
+
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have the following installed:
